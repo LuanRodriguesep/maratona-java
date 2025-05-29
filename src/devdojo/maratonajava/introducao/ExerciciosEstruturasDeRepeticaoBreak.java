@@ -8,8 +8,9 @@ public class ExerciciosEstruturasDeRepeticaoBreak {
         for (int i = 1 ; i <= carroValor ; i++){
             valorParcela = carroValor / i;
             if( valorParcela < 1000){
-                System.out.println("Parcela de " + i + "x" + " de " + valorParcela);
+                break;
             }
+            System.out.println("Parcela de " + i + "x" + " de " + valorParcela);
         }
     }
 }
