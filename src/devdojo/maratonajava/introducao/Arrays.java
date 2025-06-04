@@ -8,7 +8,7 @@ public class Arrays {
         // boolean =  false
         // String  = null
 
-
+        int [] numeros = {10,9,8,7,6,5,4,3,2,1};
         String[] nomes = new String[3];
         nomes[0] = "Dudu";
         nomes[1] = "Amora";
@@ -17,5 +17,11 @@ public class Arrays {
         for (int i = 0; i < nomes.length; i++) {
             System.out.println("Nome na posicao " + i + ": "  + nomes[i]);
         }
+
+        for(int i : numeros) {
+            System.out.println(i);
+        }
+
+        System.out.println(numeros[3] + " Teste numero no array");
     }
 }
