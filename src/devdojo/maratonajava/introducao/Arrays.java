@@ -31,10 +31,19 @@ public class Arrays {
         System.out.println(dias[1][2]); // array multidimensional
 
 
-        // Percorrendo o array multidimensional
+        // Percorrendo o array multidimensional com For simples
         for (int i = 0 ; i < dias.length; i++){
             for(int j = 0; j < dias[0].length ; j++){
                 System.out.println(dias[i][j]);
+            }
+        }
+
+        System.out.println("-------------------------------------------------------");
+        // Percorrendo o array com For Each
+
+        for(int[] arrBase: dias){
+            for(int num: arrBase){
+                System.out.println(num);
             }
         }
     }
