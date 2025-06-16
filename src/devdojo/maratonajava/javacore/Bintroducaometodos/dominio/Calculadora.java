@@ -4,4 +4,16 @@ public class Calculadora {
     public void somaDoisNumeros() {
         System.out.println(10 + 10 );
     }
+
+    public void subtrairDoisNumeros(){
+        System.out.println(25 - 20);
+    }
+
+    public void multiplicador(int num1 , float num2){
+        System.out.println(num1 * num2);
+    }
+
+    public double dividiDoisNumeros(double num1, double num2) {
+       return num1 / num2;
+    }
 }
