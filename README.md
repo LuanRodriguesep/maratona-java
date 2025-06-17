@@ -30,16 +30,33 @@ Este repositório documenta a minha jornada como estudante aprendendo a linguage
 
 ---
 
-## ✅ Exercícios realizados
+### ✅ Programação Orientada a Objetos (POO)
+
+- Definição e criação de classes
+- Criação e uso de objetos
+- Métodos com parâmetros e retorno
+- Uso do `this` para referenciar atributos do objeto
+- Referência de objetos
+- Parâmetros por referência
+- Uso de `varargs` para métodos com argumentos variáveis
+- Modificadores de acesso (`public`, `private`, `default`)
+- Conceito de coesão em classes
+
+---
+
+### ✅ Exercícios realizados
 
 Os exercícios foram baseados no conteúdo da [Maratona Java - DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL), e ajudaram bastante na fixação dos conceitos iniciais da linguagem.
 
-Alguns dos exercícios resolvidos:
+**Alguns dos exercícios resolvidos:**
 
 - Verificação de idade e categorias com `if/else`
 - Cálculo de salário líquido com impostos
 - Impressão de sequência numérica com `for`
 - Operações com arrays simples
+- Exercício de coesão de classes (aula 42)
+- Exercício de coesão de classes (aula 53)
+
 
 ---
 
@@ -69,9 +86,10 @@ Além disso:
 
 - Praticar mais exercícios com arrays e métodos
 - Aprender sobre matrizes (arrays bidimensionais)
-- Introdução à programação orientada a objetos
-- Conceitos de encapsulamento, herança e polimorfismo
+- Aprofundar os conceitos de orientação a objetos
+- Introdução a encapsulamento, herança e polimorfismo
 - Criação de pequenos sistemas em console usando classes
+- Me aprofundar cada vez mais no universo da programação orientada a objetos, entendendo com mais clareza como pensar em termos de objetos, responsabilidades e boas práticas de projeto — não apenas para escrever código que funciona, mas código que faz sentido e é fácil de evoluir
 
 ---
 
