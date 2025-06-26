@@ -10,3 +10,6 @@ public class AnimeTest01 {
         anime.Imprime();
     }
 }
+
+
+// Podemos chamar construtores somente utilizando this() - porem so funciona para construtores
